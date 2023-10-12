@@ -25,6 +25,7 @@ Jyothishwari GP
 - [Gabriel Marzioli](https://github.com/gabriel073)
 - [Priyank Panchal](https://github.com/Priyank911)
 -[Sohini Hazra](https://github.com/HazraSohini)
+-[Deepayan Basu](https://github.com/dbasu03)
 - [Surav Shrestha](https://github.com/suravshrestha)
 - [Fares Yusuf](https://github.com/Fares-Yusuf)
 - [Harshayu Gupte](https://github.com/Harshayu)
